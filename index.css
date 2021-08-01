@@ -1,0 +1,103 @@
+html{
+    width: 100%; height: 100%;
+    border-top: #5D7B6F 30px solid;
+    border-bottom: #5D7B6F 30px solid;
+    padding: 0px; margin: 0px;
+    box-sizing: border-box;
+    background-color: #A4C3A2;
+   
+}
+.body{
+    
+    border:#B0D4B8 0.1px solid;
+    background-color: #EAE7D6;
+    width: 300px;height: 450px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:180px;
+    padding: 30px;
+    text-align: center;
+    box-shadow:0px 0px 15px 1px rgba(0,0,0,0.2);
+    border-radius: 30px;
+    
+    
+}
+.circle{ 
+    
+    position: absolute;
+    border-radius: 60%;
+
+   
+    
+    
+}
+.dec1{
+    transform: rotate(45deg);
+    
+    position:absolute;
+    margin-left: 55px;
+    margin-top: 17px;
+    border-radius: 20%;
+    overflow:hidden;
+   padding: 0px;
+    width: 180px; height:180px;
+    background-color:#D7F9FA ;
+    transform: scale(82%);
+}
+.dec11{
+    padding: 0pxs;
+    border-radius: 100%;
+    width: 300px; height:300px;
+    background:  linear-gradient( #D7F9FA,#5D7B6F); 
+}
+
+.namecard{
+    padding-top: 70%;
+
+}
+.namecard h2{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    letter-spacing: 4px;
+    color: #223528
+    
+}
+.namecard p{
+    letter-spacing: 2px;
+    padding-top: 4px;
+    margin-top: 0px;
+    font-weight: 0px;
+    font-size: 16px;
+    color:rgba(48, 37, 26, 0.7) ;
+   
+}
+h3 a{
+    color:#5D7B6F ;
+}
+
+.contact{
+    font-family: monospace;
+    font-size: 15px;
+    letter-spacing:0.5px;
+    text-align: center;
+   position: relative;
+   padding-top: 0px;
+   color:#77654a;
+}
+.icon{
+    width: 30px; height: 30px;
+    padding: 6px;
+    padding-bottom: 2px;
+}
+a{
+    text-decoration: none;
+}
+.ig{
+    
+    color:#77654a;
+}
+.email{
+    
+    color:#77654a;
+}
