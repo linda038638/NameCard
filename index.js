@@ -24,7 +24,7 @@ let object1 ={
     address:'鹿港鎮福興鄉交界',
 }
 console.log(object1)
-console.log(object1.name)
+console.log(object1.name) // . => 的
 console.log(object1.age)
 
 //IG牆
